@@ -6,5 +6,3 @@ Mais um
 Teclas: apertar i para inserir.
 	apertar esc depois :wq para salvar e sair
 
-
-	asdaajdshf
